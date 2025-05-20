@@ -2,6 +2,10 @@
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Stationery Logo" width="200px" height="200px">
 </div>
+<!-- Logo centered -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo" width="200px" height="200px">
+</div>
 
 ## 🖼️ Our Banner
 
@@ -32,13 +36,8 @@ Welcome to **Lathiyan Stationery**, your one-stop shop for high-quality statione
 
 <h2 align="center">🛍️ Product Highlights</h2>
 
-<!-- Logo centered -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo">
-</div>
-
 <!-- Grid Container -->
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 40px;">
 
   <img src="img/Doms-Pencil-colour-12-shades-premium-quality.png" alt="DOMS 12 Shades Pencil" width="200px" height="200px">
   <img src="img/doms-pencil-combo.png" alt="DOMS Pencil Combo" width="200px" height="200px">
