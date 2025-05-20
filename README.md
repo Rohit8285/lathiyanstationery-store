@@ -1,6 +1,6 @@
 ## 🧾 Our Logo
 <!-- Logo centered -->
-<div style="text-align: center; margin-bottom: 30px;" width="1000px" height="300px">
+<div style="text-align: center; margin-bottom: 30px;" >
   <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo">
 </div>
 
