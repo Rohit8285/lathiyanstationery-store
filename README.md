@@ -8,6 +8,10 @@
 
 <img src="img/Lathiyan-Stationery.png" alt="Banner"/>
 
+ <h2 align="center">🛍️ instagram blue tick verification badges </h2>
+
+ <img src="img/official-instagram-blue-tick.png" alt="Instagram Badge" width="1000px" height="600px">
+
 ---
 
 # Lathiyan Stationery
@@ -49,8 +53,6 @@ Welcome to **Lathiyan Stationery**, your one-stop shop for high-quality statione
   <img src="img/24-shade-doms-best-price.png" alt="24 Shade DOMS" width="200px" height="200px">
   <img src="img/doms-esports-eraser-super-cars.png" alt="Esports Eraser" width="200px" height="200px">
   <img src="img/double-tape-combo-four-pack.png" alt="Double Tape Pack" width="200px" height="200px">
-  <img src="img/official-instagram-blue-tick.png" alt="Instagram Badge" width="200px" height="200px">
-
 </div>
 
 
