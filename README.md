@@ -1,6 +1,6 @@
 ## 🧾 Our Logo
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Stationery Logo" width="200" height="200">
+  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Stationery Logo" width="200px" height="200px">
 </div>
 
 ## 🖼️ Our Banner
@@ -33,72 +33,30 @@ Welcome to **Lathiyan Stationery**, your one-stop shop for high-quality statione
 <h2 align="center">🛍️ Product Highlights</h2>
 
 <!-- Logo centered -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo">
+</div>
 
+<!-- Grid Container -->
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
 
-<!-- Product Grid -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img src="img/Doms-Pencil-colour-12-shades-premium-quality.png" alt="DOMS 12 Shades Pencil" width="200px" height="200px">
+  <img src="img/doms-pencil-combo.png" alt="DOMS Pencil Combo" width="200px" height="200px">
+  <img src="img/doms-roller-eraser.png" alt="DOMS Roller Eraser" width="200px" height="200px">
+  <img src="img/mechanical-sharpener-luxury-design-2.png" alt="Mechanical Sharpener" width="200px" height="200px">
 
-  <div style="width: 200px; text-align: center;">
-    <strong>DOMS 12 Shades Pencil</strong><br>
-    <img src="img/Doms-Pencil-colour-12-shades-premium-quality.png" width="180">
-  </div>
+  <img src="img/kangaroo-brand-stapler-with-extra-pin-box.png" alt="Kangaroo Stapler" width="200px" height="200px">
+  <img src="img/fevicol-combo-offer-extra-fevistick-fevikwik.png" alt="Fevicol Combo" width="200px" height="200px">
+  <img src="img/glitter-with-cello-tape.png" alt="Glitter Tape" width="200px" height="200px">
+  <img src="img/A-4-craft-paper-sheet-combo-price.png" alt="A4 Craft Paper" width="200px" height="200px">
 
-  <div style="width: 200px; text-align: center;">
-    <strong>DOMS Pencil Combo</strong><br>
-    <img src="img/doms-pencil-combo.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>DOMS Roller Eraser</strong><br>
-    <img src="img/doms-roller-eraser.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Mechanical Sharpener</strong><br>
-    <img src="img/mechanical-sharpener-luxury-design-2.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Kangaroo Stapler</strong><br>
-    <img src="img/kangaroo-brand-stapler-with-extra-pin-box.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Fevicol Combo</strong><br>
-    <img src="img/fevicol-combo-offer-extra-fevistick-fevikwik.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Glitter Cello Tape</strong><br>
-    <img src="img/glitter-with-cello-tape.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>A4 Craft Paper</strong><br>
-    <img src="img/A-4-craft-paper-sheet-combo-price.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>24 Shade DOMS</strong><br>
-    <img src="img/24-shade-doms-best-price.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Esports Eraser</strong><br>
-    <img src="img/doms-esports-eraser-super-cars.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Double Tape Pack</strong><br>
-    <img src="img/double-tape-combo-four-pack.png" width="180">
-  </div>
-
-  <div style="width: 200px; text-align: center;">
-    <strong>Instagram Verified Badge</strong><br>
-    <img src="img/official-instagram-blue-tick.png" width="180">
-  </div>
+  <img src="img/24-shade-doms-best-price.png" alt="24 Shade DOMS" width="200px" height="200px">
+  <img src="img/doms-esports-eraser-super-cars.png" alt="Esports Eraser" width="200px" height="200px">
+  <img src="img/double-tape-combo-four-pack.png" alt="Double Tape Pack" width="200px" height="200px">
+  <img src="img/official-instagram-blue-tick.png" alt="Instagram Badge" width="200px" height="200px">
 
 </div>
+
 
 
 
