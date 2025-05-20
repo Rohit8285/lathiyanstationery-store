@@ -1,10 +1,10 @@
 ## 🧾 Our Logo
 
-![Logo](img/lathiyan-stationery-logo.png)
+<img src="img/lathiyan-stationery-logo.png" alt="Logo" width="200" height="200"/>
 
 ## 🖼️ Our Banner
 
-![Banner](img/Lathiyan-Stationery.png)
+<img src="img/Lathiyan-Stationery.png" alt="Banner"/>
 
 ---
 
@@ -31,10 +31,10 @@ Welcome to **Lathiyan Stationery**, your one-stop shop for high-quality statione
 ## 🛍️ Product Highlights
 
 **DOMS 12 Shades Pencil Premium Pack**  
-![Doms Pencil](img/Doms-Pencil-colour-12-shades-premium-quality.png)
+<img src="img/Doms-Pencil-colour-12-shades-premium-quality.png" alt="Doms Pencil" width="300" height="300"/>
 
 **DOMS Pencil Combo Pack**  
-![Pencil Combo](img/doms-pencil-combo.png)
+<img src="img/doms-pencil-combo.png" alt="Pencil Combo" width="300" height="300"/>
 
 **DOMS Roller Eraser**  
 ![Roller Eraser](img/doms-roller-eraser.png)
