@@ -1,12 +1,8 @@
 ## 🧾 Our Logo
 <!-- Logo centered -->
 <div style="text-align: center; margin-bottom: 30px;" >
-<a href="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg">  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo"></a>
+<a href="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg">  <img src="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg" alt="Lathiyan Logo"></a>
 </div>
-<div style="text-align: center; margin: 20px 0;">
-  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Stationery Logo" style="max-width: 200px; margin-left="100px">
-</div>
-
 
 ## 🖼️ Our Banner
 
