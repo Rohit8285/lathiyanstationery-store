@@ -1,10 +1,7 @@
 ## 🧾 Our Logo
-<div style="text-align: center; margin-bottom: 30px;">
-  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Stationery Logo" width="200px" height="200px">
-</div>
 <!-- Logo centered -->
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo" width="200px" height="200px">
+  <img src="img/lathiyan-stationery-logo.png" alt="Lathiyan Logo" width="200px">
 </div>
 
 ## 🖼️ Our Banner
