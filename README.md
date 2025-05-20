@@ -3,9 +3,7 @@
 <div style="text-align: center; margin-bottom: 30px;" >
 <a href="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg">  <img src="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg" alt="Lathiyan Logo"></a>
 </div>
-<div dir="auto" style="margin-left: 300px;">
-<a href="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg" rel="nofollow">  <img src="https://camo.githubusercontent.com/0da6a111ff44d20a7f131d7b3dfb0b3e4bbaad6862edf048a20c8b0f0daa36d4/68747470733a2f2f6c6174686979616e73746174696f6e6572792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032352f30342f6465736b746f702d6c6174686979616e2d73746174696f6e6572792d6c6f676f2e6a7067" alt="Lathiyan Logo" data-canonical-src="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg" style="max-width: 100%;"></a>
-</div>
+
 
 ## 🖼️ Our Banner
 
