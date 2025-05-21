@@ -103,6 +103,11 @@ Welcome to **Lathiyan Stationery**, your one-stop shop for high-quality statione
   <a href="https://arsmate.com/lathiyanstationery" target="_blank">🎨 Arsmate</a>
   <a href="https://www.twitch.tv/lathiyanstationery" target="_blank">🎮 Twitch</a>
   <a href="https://www.threads.net/@lathiyan_stationery" target="_blank">🧵 Threads</a>
+<a href="https://pastelink.net/lzgvdet7" target="_blank">🥨Paste link </a>
+<a href="https://flipboard.com/@lathiyansta5cl0/india-1-online-stationery-store-2s4ouoh4y" target="_blank">🍜Flipboard</a>
+<a href="https://ganknow.com/lathiyanstationery" target="_blank">🥫Ganknow</a>
+<a href="https://500px.com/p/lathiyanstationery?view=photos" target="_blank">🍟500px</a>
+<a href="https://pixabay.com/users/lathiyanstationery-50399817/" target="_blank">🍛Pixabay</a>
 </div>
 
 
