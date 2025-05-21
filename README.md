@@ -1,6 +1,7 @@
 <h2 align="center" >🧾 Our Logo</h2>
 <!-- Logo centered -->
 <div style="text-align: center; margin-bottom: 30px;" >
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit8285&label=Profile%20views&color=0e75b6&style=flat" alt="rohit8285" /> </p>
 <a href="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg">  <img src="https://lathiyanstationery.com/wp-content/uploads/2025/04/desktop-lathiyan-stationery-logo.jpg" alt="Lathiyan Logo"></a>
 </div>
 
